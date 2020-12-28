@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Catatan Keuangan</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Catatan Keuangan</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Reset</string>
+    <string name="nama1">Putu Eka Savitri Pradnyani (1805551034)</string>
+    <string name="nama2">Putu Diah Mertadewi (1805551034)</string>
+    <string name="nama3">Gregorius Ericco Jansen (1708561081) </string>
+
+    <string name="aboutheader">Catatan Keuangan &#169; 2018</string>
+   </resources>
